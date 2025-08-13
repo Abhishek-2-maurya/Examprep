@@ -1,2 +1,2 @@
-# Examprep
-this my my full stack project
+#ExamPrep project
+this is my fullstack project
